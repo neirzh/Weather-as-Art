@@ -99,9 +99,8 @@ Artwork generated successfully: artwork.png
 ✅ Artwork generated successfully!
 
 Artwork saved as artwork.png
-
-![June 1999](artwork.png)
 ```
+![June 1999](artwork.png)
 
 ## 🎨 How It Works
 - **Data**: The `Temp_and_rain.csv` file contains historical weather data with columns: `tem` (temperature in °C), `Month`, `Year`, and `rain` (rainfall in mm).
