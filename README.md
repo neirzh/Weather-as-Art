@@ -85,16 +85,22 @@ pip install pandas numpy Pillow
 Data available from 1901 to 1901
 
 Enter 'q' at any prompt to quit
-Enter month (1-12): 7
-Enter year (1901-1901): 1901
+Enter month (1-12): 6
+Enter year (1901-1901): 1999
 
 Fetching weather data for 7/1901...
-📊 Average Temperature: 28.89°C, Average Rainfall: 341.04mm
+          tem  Month  Year     rain
+1181  28.5738      6  1999  338.123
+📊 Average Temperature: 28.57°C, Average Rainfall: 338.12mm
 
 🎨 Generating artwork based on weather data...
+Generating artwork for temperature: 28.5738°C, rainfall: 338.123mm
+Artwork generated successfully: artwork.png
 ✅ Artwork generated successfully!
 
 Artwork saved as artwork.png
+
+![June 1999](artwork.png)
 ```
 
 ## 🎨 How It Works
