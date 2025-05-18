@@ -108,7 +108,7 @@ Artwork saved as artwork.png
     - `30-40°C`: Orange/red squares and spiky shapes, with thunder shapes if rainfall is significant.
   - **Rainfall** affects the number of shapes, their sizes, and adds rain particles if significant.
 - **Output**: The artwork is saved as `artwork.png` in the current directory and displayed if possible.
-- **Note**: You can increase the variety in artwork generation by assigning different styles to each degree celsius instead of having one style assigned to a whole group of few degree celsius. You can also use a more detailed dataset along with it for enhanced generation.
+- **Note**: You can increase the variety in artwork generation by assigning different styles to each degree celsius instead of having one style assigned to a whole group of few degree celsius. You can also use a more detailed dataset along with it for diverse generation.
 
 ## 📊 Data Format
 The `Temp_and_rain.csv` file should have the following columns:
