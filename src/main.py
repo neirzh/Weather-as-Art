@@ -53,7 +53,7 @@ def main():
     display_banner()
 
     # Load data file
-    csv_path = "Temp_and_rain.csv"
+    csv_path = "../data/Temp_and_rain.csv"
     df = data_processor.load_data(csv_path)
     if df is None:
         print(f"Failed to load data from {csv_path}")
